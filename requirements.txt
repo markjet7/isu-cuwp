@@ -1,3 +1,2 @@
 biosteam
-dot
 graphviz
